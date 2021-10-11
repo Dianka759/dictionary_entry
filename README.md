@@ -1,0 +1,1 @@
+Creating a basic HTML to define the word 'ninja'.
